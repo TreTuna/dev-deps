@@ -1,6 +1,6 @@
 {
   "name": "@tretuna/dev-deps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared tooling and configurations for TreTuna's JavaScript projects",
   "main": "index.js",
   "author": "Tre Ammatuna",
