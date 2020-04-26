@@ -1,7 +1,7 @@
 # @TreTuna/prerolled-js
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-![Release](https://github.com/TreTuna/prerolled-js/workflows/Release/badge.svg)
+![Release](https://github.com/TreTuna/dev-deps/workflows/Release/badge.svg)
 
 A collection of shared libraries, tooling, and configurations commonly used for JavaScript application and library development.
 
